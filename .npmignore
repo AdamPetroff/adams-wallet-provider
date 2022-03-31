@@ -1,5 +1,6 @@
 node_modules
 public
-src
 tsconfig.json
 .gitignore
+src/*
+!src/AdamsWalletProvider.tsx
