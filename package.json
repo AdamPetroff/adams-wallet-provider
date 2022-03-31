@@ -1,6 +1,6 @@
 {
   "name": "adams-wallet-provider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A service that listens for updates on TheGraph",
   "main": "./dist/AdamsWalletProvider.js",
   "types": "./dist/AdamsWalletProvider.d.ts",
