@@ -31,5 +31,15 @@
     "rules": {
       "react-hooks/exhaustive-deps": 0
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamPetroff/adams-wallet-provider.git"
+  },
+  "author": "Adam Petroff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamPetroff/adams-wallet-provider/issues"
+  },
+  "homepage": "https://github.com/AdamPetroff/adams-wallet-provider#readme"
 }
